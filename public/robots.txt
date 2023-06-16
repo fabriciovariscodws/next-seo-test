@@ -1,2 +1,9 @@
+# *
 User-agent: *
-Disallow:
+Allow: /
+
+# Host
+Host: https://fabriciovariscodws.github.io/next-seo-test/
+
+# Sitemaps
+Sitemap: https://fabriciovariscodws.github.io/next-seo-test/sitemap.xml
