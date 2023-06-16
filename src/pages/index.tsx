@@ -34,6 +34,7 @@ export default function Home() {
         }}
       />
       <Head>
+      <meta name="google-site-verification" content="4o8eLXcXeT19dUAu4Z5d9Gw6MdZYqt6JEfMxhu8qeVA" />
       <SiteLinksSearchBox />
       </Head>
       <main>
