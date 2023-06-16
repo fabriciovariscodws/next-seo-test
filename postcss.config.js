@@ -4,3 +4,13 @@ module.exports = {
     autoprefixer: {},
   },
 }
+
+const nextConfig = {
+  images: {
+    loader: 'akamai',
+    path: '',
+  },
+  assetPrefix: './',
+};
+
+export default nextConfig;
