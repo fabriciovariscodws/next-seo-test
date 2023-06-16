@@ -27,7 +27,11 @@ export default function Home() {
         description={'Testing'}
         title={'Teste SEO'}
         canonical={'https://fabriciovariscodws.github.io/next-seo-test/'}
-
+        openGraph={{
+          title: 'Título para OpenGraph',
+          description: 'Descrição para OpenGraph',
+          // Adicione outras propriedades OpenGraph relevantes
+        }}
       />
       <Head>
       <SiteLinksSearchBox />
