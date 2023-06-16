@@ -30,7 +30,7 @@ export default function Home() {
         openGraph={{
           title: 'Título para OpenGraph',
           description: 'Descrição para OpenGraph',
-          // Adicione outras propriedades OpenGraph relevantes
+          url:'https://fabriciovariscodws.github.io/next-seo-test/',
         }}
       />
       <Head>
