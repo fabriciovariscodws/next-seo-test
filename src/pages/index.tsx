@@ -38,7 +38,7 @@ export default function Home() {
       <SiteLinksSearchBox />
       </Head>
       <main>
-        <h1>SEO TESTE</h1>
+        <h1>SEO TESTE asdsdadas</h1>
       </main>
     </>
   );
